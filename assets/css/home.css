@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+
+#heading {
+    text-align: center;
+    margin-top: 25px;
+    color: grey;
+
+}
+
+#remove-border{
+    border: transparent;
+}
+
+#text-fixing{
+    font-size: small;
+    color: grey;
+    border-top: 2px solid grey;
+    border-bottom: 2px solid gray;
+    text-align: center;
+}
+
+#list{
+    background-color: aqua;
+}
